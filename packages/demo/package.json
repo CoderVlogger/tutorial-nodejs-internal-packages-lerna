@@ -1,0 +1,12 @@
+{
+  "name": "@tnp/demo",
+  "version": "1.0.0",
+  "description": "Demo application package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "KenanBek",
+  "license": "Apache-2.0"
+}

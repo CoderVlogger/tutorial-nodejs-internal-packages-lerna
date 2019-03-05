@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-nodejs-packages",
+  "version": "1.0.0",
+  "description": "NodeJS internal packages with and without Lerna package manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "lerna"
+  ],
+  "author": "KenanBek",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  }
+}
