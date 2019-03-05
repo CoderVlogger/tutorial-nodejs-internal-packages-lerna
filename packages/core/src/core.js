@@ -1,7 +1,9 @@
 const helper = require('./helper');
+const converter = require('./converter');
 
 const Core = {
-    helper
+    helper,
+    converter
 };
 
 module.exports = Core;

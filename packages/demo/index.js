@@ -1,4 +1,5 @@
-const core = require('../core');
+const core = require('@tnp/core');
+// const core = require('../core');
 
 
 console.log("Demo.");
